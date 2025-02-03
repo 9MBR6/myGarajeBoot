@@ -5,11 +5,11 @@ La aplicación **Moto Manager** permite gestionar motos en un garaje, incluyendo
 ## Características
 
 - **Lista de Motos**: Visualiza todas las motos almacenadas en la base de datos.
-  ![Lista de Motos](https://)
+  ![Lista de Motos](https://github.com/9MBR6/myGarajeBoot/blob/main/img/ListMotos.png?raw=true)
 - **Añadir Moto**: Agrega una nueva moto a la base de datos con información como marca, modelo, año, precio, matrícula, entre otros.
-  ![Añadir Moto](https://)
+  ![Añadir Moto](https://github.com/9MBR6/myGarajeBoot/blob/main/img/AddMoto.png?raw=true)
 - **Editar Moto**: Modifica la información de una moto existente.
-  ![Editar Moto](https://)
+  ![Editar Moto](https://github.com/9MBR6/myGarajeBoot/blob/main/img/UpdateMoto.png?raw=true)
 - **Eliminar Moto**: Elimina una moto de la base de datos.
 
 ## Requisitos
